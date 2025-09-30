@@ -45,6 +45,9 @@ Run `Lab2.ipynb` top-to-bottom.
      * `shipping_city` mapped from `Country` (using capitals).
      * `coupon_code` and `discount_pct` generated synthetically.
 
+3. **Reference**
+   * w3schoold
+     * https://www.w3schools.com/python/python_dictionaries.asp
 ---
 
 ## ✅ Key Features
