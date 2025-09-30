@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Large archives
+*.zip
+*.tar
+*.tar.gz
+*.csv.zip
